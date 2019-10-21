@@ -3,6 +3,7 @@ A Keras implementation of fine-grained fitting experience prediction model (SPM)
 Fine-grained fitting experience prediction: a 3d-slicing attention approach, Shan Huang, Zhi Wang, Laizhong Cui, Yong Jiang, Rui Gao, ACM Multimedia 2019
 This repository also contains a pre-trained model.
 
+
 # Citation
 If you use our SPM model, please cite the paper:
 ```
@@ -14,3 +15,5 @@ If you use our SPM model, please cite the paper:
 }
 ```
 
+# Contact us
+If you have any questions, welcome to contact Shan Huang (huangsha15@mails.tsinghua.edu.cn).
